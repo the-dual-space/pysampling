@@ -7,7 +7,7 @@ the working contract for AI agents.
 
 ## This project follows pyclawd
 
-Development is driven by [pyclawd](https://github.com/anyoptimization) — a
+Development is driven by [pyclawd](https://github.com/the-dual-space/pyclawd) — a
 project-generic Python dev-task CLI. The whole project is described by one file,
 [`.pyclawd/config.py`](.pyclawd/config.py), and humans and agents drive it the
 same way. **pyclawd is expected to already be installed in your environment**

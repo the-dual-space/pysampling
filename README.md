@@ -50,7 +50,7 @@ See [`examples/plot_sampling.py`](examples/plot_sampling.py) for a runnable demo
 
 ## Development
 
-This project uses [pyclawd](https://github.com/anyoptimization) as its dev
+This project uses [pyclawd](https://github.com/the-dual-space/pyclawd) as its dev
 toolkit.
 
 ```bash
@@ -72,7 +72,7 @@ pyclawd docs serve              # serve docs/build/html locally
 ## Contact
 
 Questions, bugs, or feature requests? Please open an issue on
-[GitHub](https://github.com/anyoptimization/pysampling/issues).
+[GitHub](https://github.com/the-dual-space/pysampling/issues).
 
 Maintained by [Julian Blank](https://julianblank.com).
 

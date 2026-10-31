@@ -30,7 +30,7 @@ html_baseurl = "https://anyoptimization.com/projects/pysampling/"
 # sidebar (single-page doc — avoids an empty bar; logo + content reflow).
 html_theme_options = {
     "default_mode": "light",
-    "repository_url": "https://github.com/anyoptimization/pysampling",
+    "repository_url": "https://github.com/the-dual-space/pysampling",
     "repository_branch": "master",
     "path_to_docs": "docs/source",
     "use_repository_button": True,

@@ -19,7 +19,7 @@ project adheres to [Semantic Versioning](https://semver.org/).
   dependency group (`pip install -e . --group docs`).
 
 ### Changed
-- Adopted the [pyclawd](https://github.com/anyoptimization) dev toolkit and moved
+- Adopted the [pyclawd](https://github.com/the-dual-space/pyclawd) dev toolkit and moved
   to a modern `src/` layout with a `pyproject.toml` (hatchling) build.
 - Replaced Travis CI with GitHub Actions (`lint`, `typecheck`, `test` matrix).
 - Converted the test suite from bespoke `unittest` runners to pytest.

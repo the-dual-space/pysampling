@@ -214,6 +214,6 @@ for name in ["random", "lhs", "halton", "sobol", "riesz"]:
 ## Contact
 
 Questions, bugs, or feature requests? Please open an issue on
-[GitHub](https://github.com/anyoptimization/pysampling/issues).
+[GitHub](https://github.com/the-dual-space/pysampling/issues).
 
 Maintained by [Julian Blank](https://julianblank.com).

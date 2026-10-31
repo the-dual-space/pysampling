@@ -29,7 +29,7 @@ plot = ["matplotlib>=3.5"]
 
 [project.urls]
 Homepage = "https://anyoptimization.com/projects/pysampling"
-Source = "https://github.com/anyoptimization/pysampling"
+Source = "https://github.com/the-dual-space/pysampling"
 
 # Single source of truth for the version: src/pysampling/__init__.py::__version__.
 [tool.hatch.version]
